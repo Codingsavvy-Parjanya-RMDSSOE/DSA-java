@@ -5,7 +5,7 @@ import java.util.Arrays;
 class Reversearray
 {
     public static void main(String[] args) {
-        int a[] = {1,2,3,4};
+        int a[] = {2,4,1,3};
         int start = 0;
         int end = a.length - 1;
 
